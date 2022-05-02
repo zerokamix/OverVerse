@@ -3,11 +3,6 @@ import { Typography } from "@mui/material";
 function App() {
   return (
     <div>
-      <head>
-        <title>OVERVERSE LABS | Blockchain</title>
-        <link rel="icon" href="/favicon.ico" />
-      </head>
-
       <main
         style={{
           textAlign: "center",
