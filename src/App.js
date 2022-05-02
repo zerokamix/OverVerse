@@ -3,10 +3,10 @@ import { Typography } from "@mui/material";
 function App() {
   return (
     <div>
-      <header>
+      <head>
         <title>OVERVERSE LABS | Blockchain</title>
         <link rel="icon" href="/favicon.ico" />
-      </header>
+      </head>
 
       <main
         style={{
